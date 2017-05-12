@@ -1,1 +1,26 @@
-/* Agrega aquí tus estilos*/
+
+header{
+	background:url(./imagen/acuarela.jpg);
+	background-repeat: repeat;	
+}
+
+body {
+	background-color: #F5F5DC;
+}
+
+div{
+background-color: #F5DEB3;
+}
+
+h1, h2 {
+	font-family: 'Quicksand', sans-serif;
+	margin-top: 2%;
+	text-align: center;
+}
+p, h3{
+
+	font-family: 'Crimson Text', serif;
+	margin-right: 10%;
+	margin-left: 10%;
+	text-align: justify;
+}
